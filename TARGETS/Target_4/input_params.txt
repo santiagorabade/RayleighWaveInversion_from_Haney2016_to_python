@@ -1,0 +1,11 @@
+## input parameters for Rayleigh/Scholte wave inversion
+
+1  ## flag for fixed poissons ratio (0=no,1=yes)
+1000.00000  ## smoothness scale (m)
+   2.00000  ## a priori model standard deviation factor
+6  ## maximum number of updates (iterations)
+6  ## number of measurements
+400  ## number of elements in solid part of model
+0  ## number of elements in fluid part of model
+   1.00000  ## lower chi squared window
+   1.50000  ## higher chi squared window

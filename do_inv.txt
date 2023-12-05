@@ -1,0 +1,14 @@
+python3 driver.py 1 &
+wait
+python3 driver.py 2 &
+wait
+python3 driver.py 3 &
+wait
+python3 driver.py 4 &
+wait
+python3 driver.py 5 &
+wait
+python3 driver.py 8 &
+wait
+python3 driver.py 9 &
+
